@@ -233,7 +233,7 @@ namespace iCalLibrary.DataType
                 
             set{
                 if( this.Date != null ) {
-                    this.Date.Month = Day;
+                    this.Date.Day = value;
                 }
             }
         }
