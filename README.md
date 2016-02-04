@@ -23,4 +23,6 @@ Writing to iCalendar file is not yet implemented.
 
 If includeNoDateEntryFlag is set to false, todo entry which does not have
 start date or due date is not included
-  
+
+## License
+This software is released under the MIT License, see LICENSE
